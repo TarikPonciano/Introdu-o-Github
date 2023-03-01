@@ -4,8 +4,10 @@ tupla = (1,2,3,4,5)
 dicionario = {"Nome": "Tarik Lopes", "Telefone":12314141}
 conjunto = {"Janeiro","Fevereiro","Março"}
 
-print("Testes Lista:")
-print(lista[2])
+
+
+
+print("Nova Linha")
 
 lista[2] = 33
 
