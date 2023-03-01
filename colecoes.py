@@ -2,12 +2,7 @@
 lista = [1,2,3,4,5]
 tupla = (1,2,3,4,5)
 dicionario = {"Nome": "Tarik Lopes", "Telefone":12314141}
-conjunto = {"Janeiro","Fevereiro","Março"}
-
-
-
-
-print("Nova Linha")
+conjunto = {"Janeiro","Fevereiro","Março"
 
 lista[2] = 33
 
